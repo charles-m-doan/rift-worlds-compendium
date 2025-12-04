@@ -51,35 +51,35 @@ Updates in the Noesis Field produce **Tetra-visible outcomes** only when the ind
 1. **stabilize** sufficiently within deep-layer resonance modes, and  
 2. **project upward** into the Tetra-layer sieve.
 
-Most constructed patterns fail to project and dissipate as **dissonance**—unanchored, ambiguous deep-layer configurations that gradually decohere.
+Most constructed patterns fail to project coherently, and instead dissipate as **dissonance**—unanchored, ambiguous deep-layer configurations that gradually decohere. Insufficiently stabilized but strongly coupled to Tetra patterns tend to manifest in branches as vacuum fluctuations.
 
 ---
 
 ### 5. Anchoring
 
-An anchoring structure is any coherent cluster of distinctions (e.g., a living mind, a designed artifact, or a ritual scaffold) that:
+An anchoring structure is any coherent cluster of distinctions that:
 
 - constrains the local evolution of Noesis flux,  
 - provides a stable target for Noesis excitations,  
-- and increases the probability that deep-layer patterns will project into that reference frame.
+- and increases the probability that deep-layer patterns will project into the associated reference frame.
 
-Strong anchoring corresponds to high integration and coherence in the underlying computation.  
-Weak anchoring disperses influence across many possible causal pathways.
+Strong anchoring corresponds to high integration and coherence in the underlying computation.
+Weak anchoring disperses influence across many possible causal pathways. All clusters of distinctions are anchoring structures, but the degree varies greatly. For instance, the difference between a rock and a brain is so vast as to be qualitatively distinct.
 
 ---
 
 ## Magic and Noesis
 
-**Magic** refers to the deliberate use of structured computation to excite and direct the Noesis Field, producing effects on the Tetra layer that ordinary Tetra-only dynamics cannot achieve.
+**Magic** refers to structured computation that excites and directs the Noesis Field, producing effects on the Tetra layer that ordinary Tetra-only dynamics cannot achieve.
 
 Magic is not a separate metaphysics.  
 It is the subset of Noesis-mediated interactions that:
 
-- originate in intentionally shaped computations,  
+- originate in all computations--mediated by anchoring and flux level,  
 - access deep-layer resonance modes, and  
-- successfully project meaningful effects into the observer’s reference frame.
+- successfully project meaningful effects into the observer’s causal history.
 
-Efficiency is limited: most induced deep-layer patterns do not stabilize and contribute to dissonance.
+Efficiency is limited: most induced deep-layer patterns do not stabilize and instead contribute to dissonance.
 
 ---
 

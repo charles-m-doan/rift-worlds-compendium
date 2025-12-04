@@ -1,6 +1,6 @@
 # Tetraspace (Tetra)
 
-**Tetraspace**, or **Tetra**, refers to the general class of **four-dimensional spacetime crystallizations** that emerge from distinction-space dynamics—often, but not necessarily, through the mediation of the Noesis Field. Tetra is not a single universe, nor synonymous with “the physical world.” Instead, it is a *structural type* defined by the emergence of:
+**Tetraspace**, or **Tetra**, refers to the general class of **four-dimensional spacetime crystallizations** that emerge from distinction-space dynamics—sometimes, but not necessarily, through the mediation of the Noesis Field. Tetra is not a single universe, nor synonymous with “the physical world.” Instead, it is a *structural type* defined by the emergence of:
 
 - a 4D causal manifold in the large-scale limit,
 - Lorentzian ordering of events,
@@ -122,7 +122,7 @@ The macroscopic approximation of 4.0 is simply the point at which adjacency comp
 
 ## 5. Flux Level and Dimensional Behavior
 
-**Flux level** measures how conductive a Tetra-phase region is to deep-layer dynamics (e.g., Noesis excitations).
+**Flux level** measures how conductive a Tetra-phase region is to deep-layer dynamics (e.g., Noesis excitations beyond the crystalized patterns that give rise to Tetra itself).
 
 Flux level directly correlates with effective dimensionality:
 
@@ -130,15 +130,14 @@ Flux level directly correlates with effective dimensionality:
 - Dimensionality increases above 4.0 (fractal expansion)  
 - Geometry becomes less rigid  
 - Nonlocal behaviors become more feasible  
-- Magic becomes more efficient  
-- Dissonance becomes more hazardous  
+- Magic becomes more efficient
 - Projection thresholds are lower
 
 ### Low Flux
-- Dimensionality approaches a clean 4.0  
+- Dimensionality approaches 4.0  
 - Geometry becomes uniform and classical  
-- Magic weakens or becomes impossible  
-- Deep-layer excitations dissipate rapidly  
+- Magic weakens to the point of negligibility 
+- Deep-layer excitations dissipate rapidly across branches
 - Physical law becomes tightly constrained
 
 Flux is therefore a **phase-dependent property** of Tetraspace, not an independent field.
@@ -165,7 +164,7 @@ Patterns that fail to stabilize contribute to **dissonance**.
 
 ## 7. Tetra and Magic
 
-Magic arises from **intentionally shaped computations** that excite deep-layer resonance modes (e.g., within the Noesis Field when present).
+Magic arises from **computations** that excite deep-layer resonance modes (e.g., within the Noesis Field when present).
 
 Magic’s behavior in Tetra depends heavily on:
 
