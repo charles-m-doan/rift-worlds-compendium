@@ -1,27 +1,32 @@
-metachemistry
-hyperchemistry
-abscons, vectons
-ethereons, qualions, essences
-ether
-dissonance
-noesis field
 anchoring
 resonance
 mimesis
 
-ontic
-glyphic
+ontic data
+glyphic data
 
-coarse-grained resonance types
+resonance
+broad resonance categories
+
+Rifts and Rift Phenomena
+Rift Biomes
+Astralyte and other Hypertronic materials
 
 Eidos
 Eidolons
+Eidostatic Force
+Avorath (Voidspace)
 
-Avorath
+Hypergenics
+Human Hypergenics and Lineages
+Eidolon symbiosis
+Eidolon parasitism
+Transmutrophs
+Psychic Predators
 
-Nihilion
-Aethari
-
+The Nihilion
+The Aethari
+Rhea (the Guardian Field)
 
 
 FAQ:
