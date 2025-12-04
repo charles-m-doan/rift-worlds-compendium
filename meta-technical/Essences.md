@@ -95,7 +95,24 @@ Because they preserve internal identity structure while participating in larger-
 
 ---
 
-## 7. Summary
+## 7. Projection and Photonic Decay
+
+Essences are inherently **metastable**. Even when strongly anchored, their internal resonance structure undergoes continual micro-adjustment. Stability varies by context:
+
+- **Fully projected essences** (e.g., those bound into matter) have extremely low decay rates.
+- **Partially projected essences**—those exposed directly to Tetra as manipulable constructs—exhibit significantly higher and continuous decay.
+
+To maintain coherence, a partially projected essence must shed excess resonance energy. The lowest-resistance decay channel is the formation of **photonic vecton clusters**—simple, highly projectable resonance packets that Tetra interprets as light.
+
+As a result:
+
+- Partially projected essences emit a continuous spectrum of photonic vecton clusters.
+- Different resonance substructures decay at different frequencies, producing shifting color.
+- Dynamic resonance boundaries create fluid, wave-like projection footprints.
+
+This is why essences manipulated by espers appear as **shimmering, multicolored “liquid light”**. The visual effect is simply the Tetra-visible signature of ongoing resonance decay as the essence maintains its metastable structure at the interface between deep-layer and emergent spacetime.
+
+## 8. Summary
 
 Essences are:
 
