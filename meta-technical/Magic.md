@@ -1,285 +1,144 @@
 # Magic
 
-**Magic** is any phenomenon—deliberate or not—that produces Tetra-visible effects through excitation, shaping, or stabilization of deep-layer distinction patterns.  
-In cosmologies where the Noesis Field is present, magic arises when structured computation or deeper substrate dynamics interact with the Noesis Field and project results into Tetraspace.
+Magic refers to **structured-computation-induced modifications of deep-layer distinction patterns** within the Noesis Field.  
+It is not a separate metaphysical system but a regime of behavior arising when coherent computation produces **stabilized resonance patterns** capable of influencing etheric structures and, when vectonically aligned, projecting into Tetra.
 
-Magic is not “supernatural.”  
-It is a lawful cross-layer interaction: the imprint of deeper causal pathways on the emergent physics of Tetra.
-
-From a purely **Tetra-bound perspective**, magic **appears** to violate the laws of physics.  
-This illusion arises because Tetra-only physics assumes Tetra to be a closed causal system—an assumption that is not true in Noesis-bearing cosmologies.  
-Magic does not violate the actual causal structure of reality; it violates only the **incomplete assumption** that Tetra is self-contained.
+Magic encompasses both **deep-layer interactions** (non-projectable) and **Tetra-visible manifestations** (projectable).  
+The distinction is determined by resonance mode compatibility, not by category boundaries.
 
 ---
 
-## 1. Definition
+# 1. Definition
 
 Magic is:
 
-> **Any process—intentional, incidental, environmental, or cosmological—that produces Tetra-visible effects by exciting and directing deep-layer distinction patterns which pass through the Tetra sieve.**
+> **The process by which structured computation excites, shapes, or stabilizes deep-layer resonance patterns in the Noesis Field, with or without projection into Tetra.**
 
-Magic is constrained by:
+Magic is characterized by:
 
-- **energy** (deep-layer imbalance),
-- **time** (computational depth),
-- **anchoring** (projection stability),
-- **flux level** (Noesis–Tetra conductivity),
-- **resonance compatibility** (pattern alignment),
-- and **dissonance** (inevitable inefficiency).
+- coherent constraint signatures,
+- resonance-mode alignment,
+- anchoring-dependent stability,
+- non-zero inefficiency (dissonance production).
 
-Magic is a **class of phenomena**, not merely a skill or practice.  
-Human spellcraft is one *subset* of magic—far from the only one.
+Magic does **not** require intent or consciousness; it requires only computation with sufficient integration to produce a stable signature.
 
 ---
 
-## 2. Magic Beyond Intentional Use
+# 2. Deep-Layer Magic
 
-Magic does not require consciousness or intent.  
-Any process that generates sufficiently structured distinction-pattern behavior may produce magical effects.
+Deep-layer magic includes all resonance-modification processes that occur **entirely below the Tetra sieve**, such as:
 
-### 2.1 Incidental Magic  
-Unintended magical phenomena arising from:
+- absconic-mode interactions,
+- metachemical transformations,
+- essence evolution and reconfiguration,
+- hyperstructural resonance dynamics.
 
-- dissonance accumulation,  
-- ambient computation,  
-- unstable Tetra-phase boundaries,  
-- ritual residue,  
-- flux anomalies.
+Properties:
 
-### 2.2 Environmental Magic  
-Naturally occurring deep-layer resonance cascades:
+- Does not require vectonic resonance.
+- Does not require Tetra to exist.
+- May produce persistent deep-layer structures or dissipate into dissonance.
+- May be perceivable only to observers whose anchoring extends beyond Tetra.
 
-- ley-line structures,  
-- flux storms,  
-- world-bloom events,  
-- spontaneous hyperstructures.
-
-### 2.3 Hyperchemical Magic  
-Deep-layer “reactions” between etheric patterns may evolve and project independently:
-
-- essences forming or collapsing,  
-- vectonic assemblies stabilizing transiently,  
-- autonomous etheric organisms.
-
-### 2.4 Cosmological Magic  
-Large-scale Noesis–Tetra interactions:
-
-- Tetra-phase transitions,  
-- bleedthrough from adjacent cosmological partitions,  
-- eidolon-scale manipulations.
-
-### 2.5 Non-Tetra Intelligence  
-Entities whose cognition or structure partly resides in deeper layers:
-
-- eidolons,  
-- hyperstructures,  
-- deep-layer lifeforms.
-
-All of these can produce magic without any Tetra-level deliberation.
+Deep-layer magic is the general case; projection into Tetra is the specialization.
 
 ---
 
-## 3. Structured Computation and Noesis Responsiveness
+# 3. Tetra-Visible Magic
 
-The Noesis Field responds to **structured computation**, not randomness.
+A deep-layer process becomes Tetra-visible only when:
 
-A pattern is “structured” when it:
+1. **Vectonic resonance channels** are present (projectable modes), and  
+2. **Anchoring** is sufficient to maintain identity through recursive Noesis updates during projection.
 
-- exhibits coherent constraint propagation,  
-- is integrated and self-referential,  
-- maintains identity across updates,  
-- reinforces distinctions rather than dissolving them.
+These conditions determine whether a resonance pattern crosses the Tetra sieve.
 
-Such computation may arise in:
+Thus:
 
-- biological minds,  
-- artificial or hyperstructural devices,  
-- environmental attractor networks,  
-- large-scale cosmological structures.
+- All Tetra-visible magic is magic.  
+- Not all magic is Tetra-visible.  
 
-Noise cannot produce sustained magical effects; structure can.
+Projection is a function of resonance mode compatibility and anchoring strength, not of conceptual category.
 
 ---
 
-## 4. Energy, Time, and Inefficiency
+# 4. Requirements for Magic
 
-### 4.1 Energy Source  
-Magic requires etheric imbalance—deep-layer energy.
+Magic (in the general sense) requires:
 
-This energy may come from:
+1. **Structured computation**  
+   - Must produce a coherent constraint signature.  
+   - Noise may generate transient patterns but cannot sustain them.
 
-- the practitioner (biological computation),  
-- matter–ether transmutation (mass → imbalance),  
-- environmental gradients,  
-- resonant channel tapping,  
-- or dissonance harvesting (hazardous).
+2. **Resonance-path compatibility**  
+   - Absconic or vectonic modes; both qualify as magic.  
+   - Mode determines projectability, not magical status.
 
-### 4.2 Time–Energy Tradeoff  
-Magic allows a regulated exchange:
+3. **Anchoring**  
+   - Identity preservation across recursive Noesis feedback.  
+   - Stabilizes resonance patterns, preventing branchial dispersion.
 
-- **Fast effects** → high energy cost  
-- **Slow effects** → reduced cost  
-
-The relationship is nonlinear and saturating.
-
-### 4.3 Dissonance as Inevitable Loss  
-Magic is always less than 100% efficient.
-
-Unstabilized deep-layer patterns become **dissonance**, which:
-
-- dissipates gradually,  
-- perturbs Tetra physics,  
-- erodes anchoring,  
-- can crystallize unpredictably,  
-- and poses hazards.
+These criteria apply to all magical phenomena across layers.
 
 ---
 
-## 5. Anchoring
+# 5. Resonance Modes
 
-Anchoring determines how effectively a deep-layer pattern can project into Tetra.
+Magic interacts with two primary resonance regimes:
 
-Anchors are structures with high computational integration:
+### 5.1 Absconic Modes
+- Non-projectable into Tetra.  
+- Dominant in deep-layer processes.  
+- Support essence formation, metachemistry, and hyperstructural dynamics.  
+- Classified as magic independently of Tetra visibility.
 
-- living minds,  
-- complex artifacts,  
-- rituals (distributed computation),  
-- hyperstructures.
+### 5.2 Vectonic Modes
+- Capable of Tetra projection when anchored.  
+- Basis of all Tetra-visible magical effects.  
+- Require stronger coherence and anchoring to avoid dissonance collapse.
 
-Strong anchors:
-
-- reduce dissonance,  
-- strengthen projection,  
-- lower energy requirements,  
-- increase control.
-
-Weak anchors disperse influence and increase failure.
-
-Anchoring is the primary reason that **life** and **consciousness** participate strongly in magical phenomena.
+Resonance mode determines the **interface**, not the **classification** of magic.
 
 ---
 
-## 6. Flux Level and Tetra Permeability
+# 6. Imbalance and Dissonance
 
-**Flux level** measures how conductive a local Tetra-phase is to deep-layer influence.
+Magic relies on **etheric imbalance** (deep-layer energy).  
+Due to incomplete stabilization of resonance paths:
 
-### High Flux
-- stronger magical effects,  
-- easier projection,  
-- increased fractal dimensionality,  
-- geometric irregularities,  
-- higher dissonance risk.
+- some imbalance becomes **dissonance**,  
+- dissonance perturbs local resonance patterns,  
+- and dissipates over time.
 
-### Low Flux
-- Tetra behaves as nearly-closed classical physics,  
-- magic is weak or impossible,  
-- dissonance dissipates rapidly,  
-- effective dimension approaches a clean 4.0.
-
-Flux is a **phase property**, not a separate “field.”
+Dissonance is an inevitable byproduct of all magical processes.
 
 ---
 
-## 7. Projection into Tetra
+# 7. Relation to Other Deep-Layer Processes
 
-A magical effect becomes visible when a deep-layer pattern:
+Magic overlaps with:
 
-1. **stabilizes** within its resonance mode,  
-2. **aligns** with the Tetra sieve,  
-3. **projects** into the emergent spacetime structure.
+- **Metachemistry** (structured transformation of purely etheric deep-layer patterns),  
+- **Hyperchemistry** (behavior of Tetra-bound matter whose resonance structure has been extended by deep-layer coupling),  
+- **Essence dynamics** (formation and evolution of composite etheric structures).
 
-Projection is sensitive to:
+These distinctions describe functional regimes, not separate ontologies.
 
-- anchoring,  
-- flux level,  
-- resonance matching,  
-- energy input,  
-- the complexity of the target effect.
-
-Patterns that fail:
-
-- appear to vanish,  
-- produce no direct effect,  
-- or manifest only as subtle statistical shifts,  
-- while contributing to dissonance.
+Magic is the general mechanism by which structured computation influences deep-layer resonance; metachemistry and hyperchemistry describe specific classes of such influence.
 
 ---
 
-## 8. Apparent Violation of Physics
-
-From a Tetra-local viewpoint:
-
-Magic seems to break:
-
-- conservation laws,  
-- locality,  
-- geometrical constraints,  
-- probability distributions,  
-- classical causal closure.
-
-This appearance results from a false assumption:
-
-> **Tetra is not a closed system.**  
-> Magic exploits causal pathways that originate outside Tetra’s emergent rule set.
-
-In the full cosmological ontology:
-
-- magic is lawful,  
-- causality is preserved,  
-- energy is conserved,  
-- and Tetra’s physical laws are simply incomplete at describing deeper interaction layers.
-
-Magic violates **Tetra-only** physics,  
-never the deeper laws of distinction-space.
-
----
-
-## 9. Scope and Limits of Magic
-
-Magic can produce any effect that:
-
-- can be represented as a distinction pattern,  
-- can be assembled via allowable resonance modes,  
-- can stabilize in deep-layer dynamics,  
-- and can successfully project into the local Tetra-phase.
-
-Magic cannot produce effects that:
-
-- exceed energy input,  
-- lack anchoring,  
-- contradict Tetra-phase constraints,  
-- destabilize into noise prematurely,  
-- violate global causal ordering,  
-- or require adjacency modes incompatible with the local Noesis–Tetra interface.
-
-Magic’s limits are **structural**, not arbitrary.
-
----
-
-## 10. Magic as Hyperchemical Interaction
-
-At a deeper level, magical processes resemble a form of **hyperchemistry**, involving:
-
-- etheric “reactants,”  
-- resonance-bonding modes,  
-- structured assemblies (e.g., essences),  
-- reaction pathways shaped by computation,  
-- cascades evolving under Noesis dynamics,  
-- stabilization or collapse based on anchoring and flux.
-
-Spellcasting, biological magic, artifact magic, and natural magic all follow this same hyperchemical logic.
-
----
-
-## 11. Summary
+# 8. Summary
 
 Magic is:
 
-- a lawful deep-layer → Tetra interaction,  
-- produced by structured computation or emergent processes,  
-- not limited to living minds,  
-- constrained by anchoring, flux, resonance, and energy,  
-- inherently lossy due to dissonance,  
-- and apparently violative of physics only because Tetra is not causally closed.
+- a deep-layer resonance-shaping process,  
+- generated by structured computation,  
+- stabilized by anchoring,  
+- expressed through absconic or vectonic modes,  
+- non-binary and emergent,  
+- Tetra-visible only when vectonic and sufficiently anchored.
 
-Magic is part of the natural architecture of distinction-space in partitions where a Noesis-like layer emerges.
+Magic is not defined by projection, intent, or layer;  
+it is defined by **coherent computational influence on etheric resonance**.
