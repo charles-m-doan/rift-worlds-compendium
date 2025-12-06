@@ -1,0 +1,15 @@
+"Flux is the local measure of how strongly the substrate supports deep-layer resonance propagation and stabilization, influencing emergent-layer dimensionality and anchoring potency without serving as a standalone mechanism."
+
+Pretty much correct, but let me be very undisciplined for a minute here and just explain my feature-level intent... at the level of the non-wonk plebians.
+
+Basically I need a way to spatially modulate the efficiency and magnitude of energetic transformations with magic.
+
+Example:  In a low-flux region a talented pyromancer can melt a car with a pillar of flame.  In an ulta-high flux region, with the same level of effort, she can incinerate an entire city block.
+
+When I visualize flux level, it is basically identical to how I envision gravitational curvature, and I use words in my head like "level of conductivity with Noesis Field" but this isn't super precise...
+
+My hope is that Flux level can be a common mechanism behind magic suppression and amplification fields, magical silence/sealing, and ways that certain equipment/artifacts can amplify magical "power" of a user (independent of the many other ways...).  I see Flux level is being both environmental and potentially very localized, but if local levels differ significantly from surrounding levels, it generally requires some significant on-going supply of energy.  It's like gravitational curvature... except that raw mass is not a source of it.  It's more like "metaphysical mass" being the source... partly.  Not sure how coherent it is.  But I imagine that heavily hypertronic organisms will inherently have slightly higher flux level than their surroundings.
+
+I also imagine it being modulated by resonance to some degree.  I.E. Different forms of resonance can behave like semi-independent flux level channels.  E.G. Maybe gravity manipulation magic is strong in a region while thermal magic is weakened.  Or a specific individual can have their flux level suppressed by a device that is targeted to their "resonance signature."
+
+Lastly, I imagine flux level being able to propagate like a wave (like gravity). This is why I'm calling it "flux" because I imagine waves of dimensional fluctuation that propagate across manifolds like Tetra.  Though that fluctuation is essentially what blurs the boundary between "Tetra" and "Eidos" (a higher dimensional adjacent manifold where magic is stronger, physics is a bit more chaotic and energetic, and exotic energy sources can leak into).
