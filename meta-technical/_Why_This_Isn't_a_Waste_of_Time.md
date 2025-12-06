@@ -1,4 +1,4 @@
-# Why I'm Not Wasting My Time
+# Why This Isn't a Waste of Time
 
 This document is a reminder to myself whenever the ontology feels too abstract or overly technical.
 I’m writing the **substrate** of a world — the part no one sees, but that everything else depends on.
