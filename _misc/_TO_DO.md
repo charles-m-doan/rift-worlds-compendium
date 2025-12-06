@@ -1,8 +1,8 @@
-anchoring
 resonance
 mimesis
+dissonance.md
 
-ontic data
+ontic data - non-spatial causal/conceptual adjacency (entanglement)
 glyphic data
 
 resonance
@@ -24,9 +24,10 @@ Eidolon parasitism
 Transmutrophs
 Psychic Predators
 
-The Nihilion
-The Aethari
-Rhea (the Guardian Field)
+Pre-Noetic Entities (originate from below Noesis, but project into Noesis partition)
+    The Nihilion
+    The Aethari
+    Rhea (the Guardian Field)
 
 
 FAQ:
