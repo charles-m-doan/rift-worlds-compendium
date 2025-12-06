@@ -1,3 +1,7 @@
+sieve, partition, frame, shard, realm, manifold, cluster, etc... need to figure out proper grouping / categorizing ontological / cosmological / topological terms...  What is Tetra? Terra? Eidos?
+
+Remember, arbitrary number of Sieves can exist between Noesis and Platonia, and between Noesis and Tetra
+
 resonance
 mimesis
 dissonance.md
