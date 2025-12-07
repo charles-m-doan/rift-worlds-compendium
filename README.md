@@ -1,2 +1,2 @@
-# rift-worlds-compendium
-A compendium for all things Rift Worlds.
+# Rift Worlds Series — Official Compendium
+Companion lore, mechanics, and supplemental publications for the Rift Worlds series.
