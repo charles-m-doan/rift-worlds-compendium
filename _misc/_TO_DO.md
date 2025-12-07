@@ -12,6 +12,9 @@ glyphic data
 resonance
 broad resonance categories
 
+ephemeral matter
+morphite
+
 Rifts and Rift Phenomena
 Rift Biomes
 Astralyte and other Hypertronic materials
