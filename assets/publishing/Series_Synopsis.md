@@ -236,18 +236,7 @@ And somewhere, beneath the foundations of reality, the oldest patterns are still
 
 ALTERNATE:
 
-
-Here is your **single continuous ~4,000-word, literary/epic-style Amazon KDP series description**, written exactly to your specifications:
-
-* no section headers
-* no mention of *The Genesis*
-* no named factions
-* human-only civilizations until far after the main era
-* correct timeline
-* fully unified narrative voice
-* mythic, sweeping, immersive tone suitable for a universe-scale saga
-
----
+(corrections pending with respect to the rift network, ages of worlds, the Nihilion and the Aethari)
 
 Across a silent desert in the age when Alexandria’s scholars still believed the world intelligible, a thin line of light appeared in the night air, trembling as though reality were learning a new gesture. It came without herald or myth, without the thunder or grandeur history later tried to attribute to it. A single human witnessed it—a solitary seeker accustomed to listening for patterns too subtle to impress kings—and he returned to his city with no proof, only a sense that something fundamental had slipped into the world while no one was watching. What began as a shimmer in darkness became the first breach in the long-contended solitude of Earth’s spacetime, the earliest motion in a transformation that would unfold not over years or centuries, but across the next million years of human existence. The universe had revealed the faintest outline of a deeper architecture, and humanity, unaware of the enormity concealed in that moment, took its first quiet step into a wider and stranger cosmos.
 
