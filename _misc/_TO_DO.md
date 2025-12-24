@@ -2,9 +2,13 @@ sieve, partition, frame, shard, realm, manifold, cluster, etc... need to figure 
 
 Remember, arbitrary number of Sieves can exist between Noesis and Platonia, and between Noesis and Tetra
 
+Eidos
+Eidolons
+Eidostatic Force
+Avorath (Voidspace)
+
 resonance
 mimesis
-dissonance.md
 
 ontic data - non-spatial causal/conceptual adjacency (entanglement)
 glyphic data
@@ -18,11 +22,6 @@ morphite
 Rifts and Rift Phenomena
 Rift Biomes
 Astralyte and other Hypertronic materials
-
-Eidos
-Eidolons
-Eidostatic Force
-Avorath (Voidspace)
 
 Hypergenics
 Human Hypergenics and Lineages
