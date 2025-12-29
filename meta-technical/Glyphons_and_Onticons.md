@@ -39,8 +39,8 @@ A glyphon can capture *some* aspects of an ontic structure: patterns, measuremen
 A glyphon cannot encode the full entangled state because the ontic structure is not representational; its informational content *is* the entanglement itself. Symbolic capture inevitably collapses or omits the intrinsic linkages that constitute the ontic identity.
 
 ### Map vs Territory
-Glyphic = a map
-Ontic = the terrain (or at least an active piece of it)
+Glyphic = a map  
+Ontic = an active piece of the terrain
 
 ### Resulting implications
 - Onticons contain information that cannot be fully “read out.”  
