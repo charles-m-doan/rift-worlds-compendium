@@ -232,6 +232,51 @@ Low skill results in overbuilt duration, wasted commitment, accelerated decay, a
 
 ---
 
+## Repair vs. Re-Projection
+
+Morphite structures **can always be repaired in principle**, provided sufficient energy, skill, and time are invested. Repair operates by:
+
+- identifying regions of degraded projection coherence
+- selectively canceling accumulated noise
+- re-anchoring local structure without unraveling the whole
+
+However, repair does not scale smoothly with accumulated noise.
+
+As projection noise builds up, it becomes:
+
+- increasingly fine-grained
+- increasingly entangled across the structure
+- increasingly sensitive to intervention
+
+At low noise levels, repair is efficient:
+
+- corrections can be coarse
+- interventions are local
+- control overhead is minimal
+
+At high noise levels, repair becomes **computationally expensive**:
+
+- isolating noise requires fine discrimination between signal and structure
+- canceling noise without destabilizing neighboring regions demands precise control
+- error margins shrink, requiring higher-resolution modeling and tighter feedback loops
+
+This introduces a rapidly growing **computational overhead**. In the framework of magic, this overhead must be paid as:
+
+- additional energy (to sustain precision and overclocking)
+- additional time (to perform careful, low-error correction)
+- or both, which are partially convertible resources
+
+Beyond a certain point, the cost of _surgically preserving projection history_ exceeds the cost of **discarding that history and re-projecting the structure anew**.
+
+Importantly, this crossover is not due to physical impossibility:
+
+- the structure does not become unrepairable
+- repair does not “turn into” re-projection
+
+Rather, repair becomes _more expensive_ than replacement because:
+
+> **precision itself becomes the dominant cost.**
+
 ## Summary
 
 Morphite is governed by a single principle:
