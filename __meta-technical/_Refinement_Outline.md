@@ -1,43 +1,44 @@
-# Refinement Outline  
+# Refinement Roadmap
+
 *A Roadmap for Consolidation and Conceptual Tightening*
 
 This document defines the intended structure and refinement path for consolidating the current body of setting material into a smaller number of well-organized, internally disciplined documents. Its purpose is alignment: to ensure that future discussion, expansion, and revision proceeds from a shared understanding of scope, dependency, and priority.
 
-The primary goal at this stage is to **tighten preontological and metaphysical foundations**, not to fully elaborate phenomenology or narrative consequences.
+The primary goal at this stage is to **tighten modeling assumptions and metaphysical scaffolding**, not to fully elaborate phenomenology, narrative consequences, or ultimate foundations.
 
 ---
 
 ## Guiding Principles
 
-- **Preontological First**  
-  Establish constraints on describability and emergence before introducing ontology, mechanism, or substance.
+* **Modeling Cutoff, Not Metaphysical Closure**
+  Each layer defines a point at which explanation becomes useful, not a claim about ultimate reality.
 
-- **Strict Dependency Discipline**  
+* **Strict Dependency Discipline**
   Concepts may depend only on earlier layers. No circular definitions or backward assumptions.
 
-- **Consolidation Over Expansion**  
+* **Consolidation Over Expansion**
   Existing ideas should be merged, clarified, or pruned before introducing new ones.
 
-- **Abstraction Before Phenomenology**  
-  Focus on conditions and constraints before experience or narrative consequence.
+* **Abstraction Before Phenomenology**
+  Focus on structural constraints and explanatory roles before experience or narrative consequence.
 
-- **No Hidden Fundamentality**  
-  No layer, entity, or mechanism may quietly become a privileged “bottom.”
+* **No Hidden Fundamentality**
+  No layer, entity, or mechanism may quietly become privileged or final.
 
 ---
 
 ## Current State of the Material
 
-The existing documentation constitutes an **incomplete and partially unvetted working corpus**.  
+The existing documentation constitutes an **incomplete and partially unvetted working corpus**.
 Some material reflects exploratory extrapolation, provisional assumptions, or earlier organizational choices that may not survive refinement.
 
 This process therefore includes, explicitly:
 
-- refinement and clarification of existing concepts,
-- correction of inconsistencies or conceptual bugs,
-- reclassification of ideas into more appropriate layers,
-- removal or revision of material that fails dependency or coherence checks,
-- integration of substantial new material not yet documented.
+* refinement and clarification of existing concepts,
+* correction of inconsistencies or conceptual bugs,
+* reclassification of ideas into more appropriate layers,
+* removal or revision of material that fails dependency or coherence checks,
+* integration of substantial new material not yet documented.
 
 No existing document or definition should be treated as authoritative unless it has been explicitly revalidated within the refined structure described here.
 
@@ -50,205 +51,247 @@ The end state is a small set of core documents, each with a clearly defined role
 ---
 
 ### 0. Orientation & Design Commitments
+
 **Status:** Foundational framing — lightweight but explicit
 
 **Purpose**
-- Establish intent, scope, and design philosophy.
-- Prevent misinterpretation of foundations as ontology.
-- Ensure consistent assumptions across threads and future revisions.
+
+* Establish intent, scope, and design philosophy.
+* Clarify the difference between modeling assumptions and metaphysical claims.
+* Prevent misinterpretation of abstraction layers as ultimate ontology.
 
 **Includes**
-- Plain-language rejection of fundamentality and privileged ontology
-- Abstraction-first stance
-- Clear distinction between:
-  - preontological constraints,
-  - emergent ontologies,
-  - phenomenological consequences
-- Statement that existing documents are provisional unless revalidated
-- Guidance on how to read and use the corpus
+
+* Rejection of privileged or final ontology
+* Explicit acknowledgment of modeling cutoffs
+* Abstraction-first stance
+* Clear distinction between:
+
+  * modeling assumptions,
+  * emergent ontologies,
+  * operational regimes,
+  * phenomenological consequences
+* Statement that existing documents are provisional unless revalidated
+* Guidance on how to read and use the corpus
 
 **Explicitly Excludes**
-- Ontological claims
-- Mechanisms or dynamics
-- Definitions depended on by later documents
+
+* Ontological claims about ultimate reality
+* Mechanisms treated as fundamental
+* Definitions depended on by later documents
 
 **Role**
-- Meta-layer framing all other documents
-- Authoritative about intent and methodology, not part of the metaphysical model
+
+* Meta-layer framing all other documents
+* Authoritative about intent and methodology, not part of the model itself
 
 ---
 
-### 1. Absolute Foundations (Preontological Constraints)
+### 1. Modeling Assumptions (Scope-Limited Foundations)
+
 **Status:** Highest priority — lock first
 
 **Purpose**
-- Define irreducible constraints on describability and emergence.
-- Explicitly reject fundamentality and privileged ontology.
+
+* Define the lowest abstraction layer at which causal, time-like, and rule-based language is permitted.
+* Establish what is taken as given for explanatory purposes without claiming fundamentality.
 
 **Includes**
-- Distinction as the sole primitive
-- Distinction-space / Platonia
-- Non-spatial adjacency
-- Change without time
-- Substrate independence
-- Stability as a prerequisite for meaning
+
+* Adoption of a discrete, relational modeling framework
+* Treatment of reality as rule-governed at this level (e.g., network / hypergraph / automaton-style descriptions)
+* Acceptance of causal ordering and update language as modeling conveniences
+* Explicit acknowledgment of approximation, boundary fuzziness, and incomplete closure
+* Recognition of deeper-than-modeled structure as a source of bias, not mechanism
 
 **Explicitly Excludes**
-- Noesis
-- Ether
-- Energy
-- Computation
-- Identity
-- Flux
-- Dissonance
-- Spacetime
-- Magic
+
+* Claims of metaphysical necessity
+* Assertions about ultimate substrates
+* Explanations of why the modeling assumptions themselves hold
+* Any claim that the adopted formalism is unique or exhaustive
 
 ---
 
 ### 2. Emergence & Ontological Partitioning
+
 **Status:** Second priority
 
 **Purpose**
-- Explain how coherent ontologies arise within distinction-space at all.
+
+* Explain how coherent ontologies arise within the adopted modeling framework.
 
 **Includes**
-- Ontological partitions
-- Sieves / coarse-graining
-- Noise floors and suppression
-- Stability as survivorship
-- Observability as filtered persistence
+
+* Ontological partitions
+* Sieves / coarse-graining
+* Noise floors and suppression
+* Stability as survivorship
+* Observability as filtered persistence
 
 **Explicitly Excludes**
-- Noesis-specific mechanisms
-- Ether or resonance
-- Spacetime assumptions
+
+* Noesis-specific mechanisms
+* Ether, resonance, or magic
+* Spacetime assumptions
 
 ---
 
 ### 3. Noesis-Mediated Ontology
+
 **Status:** Third priority
 
 **Purpose**
-- Specify why *this* setting supports identity, resonance, and magic.
+
+* Specify why this setting supports identity, resonance, and magic.
 
 **Includes**
-- Noesis Field
-- Meta-adjacency
-- Causal compression (CHS)
-- Identity kernels (abstractly)
-- Computation-responsiveness
+
+* Noesis as a crystallized rule-network within the modeling framework
+* Meta-adjacency and coupling
+* Causal compression (CHS)
+* Identity kernels (abstractly)
+* Computation-responsiveness
 
 **Clarifications**
-- Noesis is emergent, contingent, and non-fundamental
-- Noesis explains *access and coupling*, not ultimate reality
+
+* Noesis is emergent, contingent, and non-fundamental
+* Noesis explains access and coupling, not ultimate reality
+* Biases in Noesis rule crystallization may originate from deeper, inaccessible structure
 
 ---
 
 ### 4. Deep-Layer Structure (Ether & Resonance)
+
 **Status:** Medium priority
 
 **Purpose**
-- Define what “substance” means inside Noesis-mediated partitions.
+
+* Define what persistent deep-layer structure means within a Noesis-mediated partition.
 
 **Includes**
-- Ether
-- Ethereons
-- Qualions
-- Deep-layer resonance
-- Essences
+
+* Ether
+* Ethereons
+* Qualions
+* Deep-layer resonance
+* Essences
 
 **Constraints**
-- No spacetime
-- No projection assumptions
-- No Tetra-visible phenomena
+
+* No spacetime
+* No projection assumptions
+* No Tetra-visible phenomena
 
 ---
 
 ### 5. Stabilization, Failure, and Environmental Modulation
+
 **Status:** Medium priority
 
 **Purpose**
-- Define limits, costs, equilibria, and failure modes.
+
+* Define limits, costs, equilibria, and failure modes.
 
 **Includes**
-- Flux
-- Anchoring
-- Dissonance
-- Untethering
+
+* Flux
+* Anchoring
+* Dissonance
+* Untethering
 
 **Key Relationships**
-- Flux ↑ → Effective Anchoring ↓
-- Flux ↑ → Potential Anchoring ↑
-- Flux ↑ → Dissonance Diffusion ↑
-- Dissonance ↑ → Flux ↑ → Effective Anchoring ↓
+
+* Flux ↑ → Effective Anchoring ↓
+* Flux ↑ → Potential Anchoring ↑
+* Flux ↑ → Dissonance Diffusion ↑
+* Dissonance ↑ → Flux ↑ → Effective Anchoring ↓
 
 ---
 
 ### 6. Projection & Emergent Spacetime
-**Status:** Lower priority (after foundations are locked)
+
+**Status:** Lower priority (after upstream layers are locked)
 
 **Purpose**
-- Explain how stable spacetime emerges and why physics works.
+
+* Explain how stable spacetime emerges and why physics works.
 
 **Includes**
-- Tetraspace (Tetra)
-- Terra
-- Projection rules
-- Effective dimensionality
-- Coherence-based speed limits
+
+* Tetraspace (Tetra)
+* Terra
+* Projection rules
+* Effective dimensionality
+* Coherence-based speed limits
 
 ---
 
 ### 7. Operational Regimes (Magic & Technology)
+
 **Status:** Later
 
 **Purpose**
-- Describe controlled interaction with the substrate.
+
+* Describe controlled interaction with the substrate.
 
 **Includes**
-- Magic as structured translation across abstraction boundaries
-- Metachemistry
-- Hyperchemistry
-- Instruments (e.g., Lumoscopes)
+
+* Magic as structured translation across abstraction boundaries
+* Metachemistry
+* Hyperchemistry
+* Instruments and techniques
 
 **Constraint**
-- Must not introduce new metaphysical primitives
+
+* Must not introduce new metaphysical primitives
 
 ---
 
 ### 8. Large-Scale Structures & Phenomenology
+
 **Status:** Deferred
 
 **Purpose**
-- Apply the framework to geography, history, and narrative-scale features.
+
+* Apply the framework to geography, history, and narrative-scale features.
 
 **Includes**
-- Rifts
-- Exotic regions
-- Long-term flux structures
-- Imperial or civilizational artifacts
+
+* Rifts
+* Exotic regions
+* Long-term flux structures
+* Civilizational or cosmological artifacts
 
 ---
 
 ## Refinement Workflow
 
-1. **Lock Absolute Foundations**
-   - Eliminate ontological leakage.
-   - Ensure all statements are preontological or constraint-based.
+1. **Lock Modeling Assumptions**
 
-2. **Merge Redundant Material**
-   - Collapse overlapping documents (e.g., Flux / Dissonance / Anchoring).
-   - Centralize definitions.
+   * Clearly separate modeling convenience from metaphysical claim.
+   * Eliminate illicit foundational language.
 
-3. **Enforce Dependency Order**
-   - Rewrite sections that assume later concepts too early.
+2. **Identify and Quarantine Proto-Mechanisms**
 
-4. **Demote Phenomenology**
-   - Push experiential or narrative material downstream.
+   * Rephrase as constraints or defer to later layers.
 
-5. **Stabilize Terminology**
-   - Normalize usage of “structure,” “abstraction,” “stability,” “projection,” etc.
+3. **Merge Redundant Material**
+
+   * Collapse overlapping documents.
+   * Centralize definitions.
+
+4. **Enforce Dependency Order**
+
+   * Rewrite sections that assume later concepts too early.
+
+5. **Demote Phenomenology**
+
+   * Push experiential or narrative material downstream.
+
+6. **Stabilize Terminology**
+
+   * Normalize usage of “structure,” “stability,” “projection,” “bias,” and “abstraction.”
 
 ---
 
@@ -256,18 +299,20 @@ The end state is a small set of core documents, each with a clearly defined role
 
 The refinement is successful when:
 
-- The setting can be summarized top-down without contradiction.
-- No concept performs unexplained foundational work.
-- Adding or removing an ontology does not invalidate the foundations.
-- Downstream ideas feel *constrained*, not arbitrary.
+* The setting can be summarized top-down without contradiction.
+* No concept performs unexplained foundational work.
+* Modeling assumptions are explicit and scoped.
+* Downstream structures feel constrained rather than arbitrary.
+* Deeper structure can exist without being specified.
 
 ---
 
 ## Intended Use
 
-This outline is intended to be:
-- Shared across threads
-- Referenced during revision
-- Used to maintain alignment on scope and priority
+This roadmap is intended to be:
 
-It is a roadmap, not a final structure.
+* Shared across threads
+* Referenced during revision
+* Used to maintain alignment on scope, dependency, and priority
+
+It is a guide for disciplined construction, not a claim of finality.
