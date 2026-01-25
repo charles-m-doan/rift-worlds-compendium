@@ -3,7 +3,7 @@
 Flux refers to the **local permeability state** of the substrate—how readily deep-layer resonance patterns propagate, stabilize, and interact with emergent-layer structures.  
 It determines how strongly the Noesis-mediated substrate supports **resonance conduction**, **anchoring reinforcement**, and **projection viability**.
 
-Flux is an environmental property, not a substance or force.
+Flux is an environmental property, not a substance or force. It is very similar in behavior to gravitational curvature, but modulated across more and different dimensions.
 
 ---
 
@@ -16,7 +16,7 @@ Flux is:
 Flux modulates:
 
 - resonance throughput,  
-- anchoring efficiency,  
+- anchoring efficiency (reduces anchoring but allows for more kinds of anchoring configurations),  
 - projection scale and stability,  
 - effective dimensionality of the emergent manifold.
 
@@ -45,15 +45,17 @@ Flux governs the **dimensional stiffness** of Tetra.
 # 3. Effects on Anchoring
 
 Anchoring depends on identity stability across recursive Noesis feedback.  
-Flux modifies the strength of this feedback loop.
+Flux modifies the strength of this feedback loop by introducing more degrees of freedom.
+More degrees of freedom allows for more possible branches, which dilutes anchoring.
+However, this also expands possible unique configurations. Higher flux means much higher anchoring potential, but lower baseline behavior.
 
-- **Higher Flux** → stronger anchoring reinforcement  
-- **Lower Flux** → weaker or unstable anchoring
+- **Higher Flux** → weaker or unstable reinforcement  
+- **Lower Flux** → higher anchoring reinforcement
 
 Consequences:
 
-- strong anchors become more potent in high-Flux regions,  
-- weak anchors may fail in low-Flux environments,  
+- dissonance dissipates faster on average in high flux,
+- anchors become slightly weaker in high flux, but also more amenable to enhancement,
 - highly integrated entities (e.g., hypertronic organisms) elevate local Flux slightly.
 
 Anchoring requirements do not change; their **effectiveness** does.
@@ -171,7 +173,7 @@ Flux influences:
 - resistance to dissonance collapse,  
 - the magnitude achievable from a given structured input.
 
-Flux does not replace any requirement; it modulates **how favorable** the environment is for projection.
+Flux does not replace any requirement; it modulates **how favorable** the environment is for stable projection.
 
 ---
 
@@ -182,7 +184,8 @@ It determines:
 
 - effective dimensionality,  
 - anchoring potency,  
-- projection efficiency,  
+- projection efficiency,
+- dissonance diffusion,  
 - resonance selectivity,  
 - and the behavior of Flux waves and surges.
 

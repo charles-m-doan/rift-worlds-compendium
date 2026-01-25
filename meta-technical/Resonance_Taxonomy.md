@@ -77,7 +77,7 @@ Local Atris may serve global Clothis, and vice versa, depending on scale and con
 
 ---
 
-## 5. Natural resonances  
+## 5. Natural resonances  (The Natures)
 *(spacetime-interface layer)*
 
 Natural resonances are **coarse-grained proxies** for how strongly systems couple to recurring patterns of causal transformation in spacetime-like regimes.

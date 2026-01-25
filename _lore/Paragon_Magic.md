@@ -1,29 +1,29 @@
 # Paragon Magic and the Twelve Virtues
 
-Paragon Magic is a specialized and deliberately constrained interface with Rhea, the Cosmic Lattice, designed by Arkeos not to reward moral excellence, but to **reduce the risk of catastrophic misuse of power**. It exists to slightly empower those individuals whose internal structure has proven reliable under conditions that normally produce delusion, fracture, or moral collapse.
+Paragon Magic is an interface protocol engineered by Arkeos that selectively amplifies a caster’s entanglement with Rhea, the Guardian Field, gated by heuristic evaluations designed to minimize known human failure modes under power. It was designed by Arkeos not to reward moral excellence, but to **reduce long-term existential risk**. It exists to empower those individuals whose internal structure has proven reliable under conditions that normally produce delusion, fracture, or moral collapse.  
 
 Arkeos was not a moral authority, prophet, or judge. He was a theoretician and steward who recognized two facts about magic:
 
 1. All magic entangles with the psyche of the caster.
 2. Power amplifies internal instability far more efficiently than it amplifies virtue.
 
-Paragon Magic is therefore not an endorsement of goodness. It is a **filter for structural trustworthiness**.
+Paragon Magic is therefore not an endorsement of goodness. It is a *filter for structural trustworthiness.* On a personal level, it was also an attempt to mitigate some of the imposition of the Arkean Curse. Arkeos never felt fully confident in his decision to constrain humanity, and Paragon Magic served, in part, to contain his own sense of transgression.
 
 ---
 
 ## The Nature of Paragon Magic
 
-Unlike learned, inherited, or ritual magic, Paragon Magic is not produced internally by the caster. It is an *external capability*, latent within the lattice of Rhea and inaccessible unless specific internal constraints are satisfied. Arkeos concealed the relevant access structures behind what later scholars called the *Paragon rules*.
+Unlike learned, inherited, or ritual magic, Paragon Magic is not produced internally by the caster. It is an *external capability*: an engineered access layer that selectively amplifies a caster’s interface with the lattice of Rhea, and remains inaccessible unless specific internal constraints are satisfied. Arkeos concealed these access structures behind what later scholars came to call the *Paragon rules*.
 
 These rules do not test belief, intention, reputation, or ideology. They test **coherence under pressure**.
 
-Paragon Magic manifests subtly. Its activation is never dramatic, rarely obvious, and often recognized only in hindsight. Individuals aligned with a virtue tend to display:
+Paragon Magic manifests subtly. Its activation is never dramatic, rarely obvious, and is often recognized only in hindsight. Individuals aligned with a virtue tend to display:
 
-* unusual reliability or precision in a narrow magical domain,
-* resistance to certain failure modes common to other practitioners,
-* or reduced degradation of spell fidelity under stress.
+* unusual reliability or precision in narrow magical domains associated with particular cognitive or emotional constraints,
+* resistance to failure modes commonly observed in other practitioners,
+* and reduced degradation of spell fidelity under stress.
 
-Even these signs are ambiguous. Most cultural recognition of Paragon alignment relies on post hoc reasoning from observed behavior and personality. The only reason the Paragon system is known to exist at all is because Arkeos described it explicitly in the *Oraculum*.
+Even these indicators are ambiguous. Cultural recognition of Paragon alignment relies almost entirely on post hoc interpretation of behavior and outcome. The very existence of the Paragon system remains contested. Arguments for its reality are drawn from millennia of observation, including rare instances in which individuals believed to be Paragons have inadvertently disclosed fragments of knowledge scholars suspect were intended by Arkeos to be gated by virtue-alignment. Whether such leaks were anticipated and tolerated by Arkeos, or represent unavoidable imperfections in the system, remains a subject of debate.
 
 ---
 
