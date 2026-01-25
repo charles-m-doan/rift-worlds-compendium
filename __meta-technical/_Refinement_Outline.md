@@ -3,41 +3,41 @@
 
 This document defines the intended structure and refinement path for consolidating the current body of setting material into a smaller number of well-organized, internally disciplined documents. Its purpose is alignment: to ensure that future discussion, expansion, and revision proceeds from a shared understanding of scope, dependency, and priority.
 
-The primary goal at this stage is to **tighten metaphysical and preontological foundations**, not to fully elaborate phenomenology or narrative consequences.
+The primary goal at this stage is to **tighten preontological and metaphysical foundations**, not to fully elaborate phenomenology or narrative consequences.
 
 ---
 
 ## Guiding Principles
 
 - **Preontological First**  
-  Establish constraints on describability and emergence before introducing any ontology, mechanism, or substance.
+  Establish constraints on describability and emergence before introducing ontology, mechanism, or substance.
 
 - **Strict Dependency Discipline**  
-  Concepts may only depend on earlier layers. No back-references or circular definitions.
+  Concepts may depend only on earlier layers. No circular definitions or backward assumptions.
 
 - **Consolidation Over Expansion**  
-  Existing ideas should be merged, clarified, and pruned before new ones are introduced.
+  Existing ideas should be merged, clarified, or pruned before introducing new ones.
 
 - **Abstraction Before Phenomenology**  
-  Focus on what must be true, not what is observed or experienced.
+  Focus on conditions and constraints before experience or narrative consequence.
 
 - **No Hidden Fundamentality**  
-  No layer, entity, or mechanism is allowed to quietly become “the real bottom.”
+  No layer, entity, or mechanism may quietly become a privileged “bottom.”
 
 ---
 
 ## Current State of the Material
 
-The existing documentation represents an **incomplete and partially unvetted working corpus**.  
+The existing documentation constitutes an **incomplete and partially unvetted working corpus**.  
 Some material reflects exploratory extrapolation, provisional assumptions, or earlier organizational choices that may not survive refinement.
 
-As a result, this process is not limited to consolidation. It explicitly includes:
+This process therefore includes, explicitly:
 
 - refinement and clarification of existing concepts,
 - correction of inconsistencies or conceptual bugs,
 - reclassification of ideas into more appropriate layers,
-- removal or revision of material that does not survive dependency or coherence checks,
-- and integration of substantial new material that has not yet been documented.
+- removal or revision of material that fails dependency or coherence checks,
+- integration of substantial new material not yet documented.
 
 No existing document or definition should be treated as authoritative unless it has been explicitly revalidated within the refined structure described here.
 
@@ -45,9 +45,40 @@ No existing document or definition should be treated as authoritative unless it 
 
 ## Target Document Structure
 
-The end state is a small number of core documents, each with a clear role.
+The end state is a small set of core documents, each with a clearly defined role and dependency position.
 
-### I. Absolute Foundations (Preontological Constraints)
+---
+
+### 0. Orientation & Design Commitments
+**Status:** Foundational framing — lightweight but explicit
+
+**Purpose**
+- Establish intent, scope, and design philosophy.
+- Prevent misinterpretation of foundations as ontology.
+- Ensure consistent assumptions across threads and future revisions.
+
+**Includes**
+- Plain-language rejection of fundamentality and privileged ontology
+- Abstraction-first stance
+- Clear distinction between:
+  - preontological constraints,
+  - emergent ontologies,
+  - phenomenological consequences
+- Statement that existing documents are provisional unless revalidated
+- Guidance on how to read and use the corpus
+
+**Explicitly Excludes**
+- Ontological claims
+- Mechanisms or dynamics
+- Definitions depended on by later documents
+
+**Role**
+- Meta-layer framing all other documents
+- Authoritative about intent and methodology, not part of the metaphysical model
+
+---
+
+### 1. Absolute Foundations (Preontological Constraints)
 **Status:** Highest priority — lock first
 
 **Purpose**
@@ -59,7 +90,6 @@ The end state is a small number of core documents, each with a clear role.
 - Distinction-space / Platonia
 - Non-spatial adjacency
 - Change without time
-- Rejection of fundamentality
 - Substrate independence
 - Stability as a prerequisite for meaning
 
@@ -76,7 +106,7 @@ The end state is a small number of core documents, each with a clear role.
 
 ---
 
-### II. Emergence & Ontological Partitioning
+### 2. Emergence & Ontological Partitioning
 **Status:** Second priority
 
 **Purpose**
@@ -89,14 +119,14 @@ The end state is a small number of core documents, each with a clear role.
 - Stability as survivorship
 - Observability as filtered persistence
 
-**Excludes**
+**Explicitly Excludes**
 - Noesis-specific mechanisms
 - Ether or resonance
 - Spacetime assumptions
 
 ---
 
-### III. Noesis-Mediated Ontology
+### 3. Noesis-Mediated Ontology
 **Status:** Third priority
 
 **Purpose**
@@ -109,13 +139,13 @@ The end state is a small number of core documents, each with a clear role.
 - Identity kernels (abstractly)
 - Computation-responsiveness
 
-**Clarification Goal**
-- Noesis is emergent, contingent, and non-fundamental.
-- Noesis explains *access*, not ultimate reality.
+**Clarifications**
+- Noesis is emergent, contingent, and non-fundamental
+- Noesis explains *access and coupling*, not ultimate reality
 
 ---
 
-### IV. Deep-Layer Structure (Ether & Resonance)
+### 4. Deep-Layer Structure (Ether & Resonance)
 **Status:** Medium priority
 
 **Purpose**
@@ -125,21 +155,21 @@ The end state is a small number of core documents, each with a clear role.
 - Ether
 - Ethereons
 - Qualions
-- Resonance (deep-layer)
+- Deep-layer resonance
 - Essences
 
 **Constraints**
-- No spacetime yet
+- No spacetime
 - No projection assumptions
 - No Tetra-visible phenomena
 
 ---
 
-### V. Stabilization, Failure, and Environmental Modulation
+### 5. Stabilization, Failure, and Environmental Modulation
 **Status:** Medium priority
 
 **Purpose**
-- Define limits, costs, and failure modes.
+- Define limits, costs, equilibria, and failure modes.
 
 **Includes**
 - Flux
@@ -147,7 +177,7 @@ The end state is a small number of core documents, each with a clear role.
 - Dissonance
 - Untethering
 
-**Key Relationships to Preserve**
+**Key Relationships**
 - Flux ↑ → Effective Anchoring ↓
 - Flux ↑ → Potential Anchoring ↑
 - Flux ↑ → Dissonance Diffusion ↑
@@ -155,7 +185,7 @@ The end state is a small number of core documents, each with a clear role.
 
 ---
 
-### VI. Projection & Emergent Spacetime
+### 6. Projection & Emergent Spacetime
 **Status:** Lower priority (after foundations are locked)
 
 **Purpose**
@@ -170,24 +200,24 @@ The end state is a small number of core documents, each with a clear role.
 
 ---
 
-### VII. Operational Regimes (Magic & Technology)
+### 7. Operational Regimes (Magic & Technology)
 **Status:** Later
 
 **Purpose**
 - Describe controlled interaction with the substrate.
 
 **Includes**
-- Magic as structured translation
+- Magic as structured translation across abstraction boundaries
 - Metachemistry
 - Hyperchemistry
 - Instruments (e.g., Lumoscopes)
 
 **Constraint**
-- Must not introduce new metaphysical primitives.
+- Must not introduce new metaphysical primitives
 
 ---
 
-### VIII. Large-Scale Structures & Phenomenology
+### 8. Large-Scale Structures & Phenomenology
 **Status:** Deferred
 
 **Purpose**
@@ -205,20 +235,20 @@ The end state is a small number of core documents, each with a clear role.
 
 1. **Lock Absolute Foundations**
    - Eliminate ontological leakage.
-   - Ensure every statement is preontological or constraint-based.
+   - Ensure all statements are preontological or constraint-based.
 
-2. **Merge Redundant Documents**
-   - Collapse overlapping files (e.g., Flux / Dissonance / Anchoring).
+2. **Merge Redundant Material**
+   - Collapse overlapping documents (e.g., Flux / Dissonance / Anchoring).
    - Centralize definitions.
 
 3. **Enforce Dependency Order**
    - Rewrite sections that assume later concepts too early.
 
 4. **Demote Phenomenology**
-   - Move experiential or narrative descriptions downstream.
+   - Push experiential or narrative material downstream.
 
 5. **Stabilize Terminology**
-   - Ensure consistent use of “structure,” “abstraction,” “stability,” “projection,” etc.
+   - Normalize usage of “structure,” “abstraction,” “stability,” “projection,” etc.
 
 ---
 
@@ -227,7 +257,7 @@ The end state is a small number of core documents, each with a clear role.
 The refinement is successful when:
 
 - The setting can be summarized top-down without contradiction.
-- No concept does unexplained foundational work.
+- No concept performs unexplained foundational work.
 - Adding or removing an ontology does not invalidate the foundations.
 - Downstream ideas feel *constrained*, not arbitrary.
 
@@ -235,9 +265,9 @@ The refinement is successful when:
 
 ## Intended Use
 
-This outline is meant to be:
+This outline is intended to be:
 - Shared across threads
-- Referenced during revisions
-- Used to keep future discussion aligned on scope and priority
+- Referenced during revision
+- Used to maintain alignment on scope and priority
 
 It is a roadmap, not a final structure.
