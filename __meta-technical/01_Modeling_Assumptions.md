@@ -2,106 +2,106 @@
 
 *Scope-Limited Explanatory Commitments*
 
-The following assumptions fix the **lowest abstraction layer at which explanatory modeling is undertaken** within the setting. They do not assert metaphysical necessity, uniqueness, or fundamentality. They define a representational regime within which causal language, rules, and emergent structure are treated as legitimate and productive.
+The following assumptions fix the lowest abstraction layer at which explanatory modeling is undertaken within the setting. They do not assert metaphysical necessity, uniqueness, or fundamentality. They define a representational regime within which causal language, rules, and emergent structure are treated as legitimate and productive.
 
-All subsequent constructions—physical law, magic, identity, spacetime, failure modes—are constrained by these assumptions and may not retroactively modify them.
+All subsequent constructions—physical law, magic, identity, spacetime, and failure modes—are constrained by these assumptions and may not retroactively modify them.
 
 ---
 
 ## 1. Admissibility of Rule-Governed Description
 
-At the modeling cutoff adopted here, reality is treated as **amenable to rule-governed description**.
+Reality is treated as amenable to rule-governed description at the adopted modeling cutoff.
 
-* Local structure evolves according to constraints that can be represented as rules.
-* These rules may be deterministic, stochastic, context-sensitive, or history-dependent.
-* Rules are not assumed to be simple, closed, or globally uniform.
-* Rules are not assumed to be eternal or exact.
+* Structure is constrained by regularities representable as rules.
+* Rules may be deterministic, stochastic, context-sensitive, or history-dependent.
+* Rules are not assumed to be simple, closed, globally uniform, eternal, or exact.
 
-Rule-governed behavior is treated as an emergent regularity, not as a metaphysical primitive.
+Rule-governed behavior is treated as an emergent regularity rather than a metaphysical primitive.
 
 ---
 
 ## 2. Discrete Relational Structure
 
-The modeled substrate is treated as **discrete and relational** rather than continuous or geometric.
+The modeled substrate is treated as discrete and relational rather than continuous or geometric.
 
 * Structure is represented as relations among distinguishable elements.
-* Adjacency is defined by relational coupling, not by distance or embedding space.
+* Adjacency is defined by relational coupling rather than distance or embedding space.
 * Graph- or hypergraph-like representations are admissible.
 * Continuity, geometry, and metric structure are treated as emergent approximations.
 
-Discreteness is a modeling choice made for coherence and tractability, not a claim about ultimate reality.
+Discreteness is a modeling choice made for coherence and tractability.
 
 ---
 
-## 3. Locality of Constraint Propagation
+## 3. Structural Locality of Constraint
 
-Interactions are treated as **locally propagated** relative to the adopted relational structure.
+Constraints apply only where relations are explicitly defined within the adopted relational structure.
 
-* Effects arise through chains of constrained relations.
-* Apparent nonlocality is permitted only through alternative adjacency structures introduced at later layers.
-* No assumption is made that locality corresponds to spatial proximity.
+* No constraint may act across absent, undefined, or unsupported relations.
+* Apparent nonlocal effects are admissible only when mediated by alternative adjacency structures introduced at later layers.
+* Locality is topological and structural, not spatial or temporal.
 
-Causal influence is modeled as constraint propagation, not as force transmission.
+Causal influence is modeled as relation-bounded constraint.
 
 ---
 
-## 4. Time-Like Ordering Without Fundamental Time
+## 4. Time-Like Ordering Without Directional Privilege
 
-A **time-like ordering** is admitted for modeling purposes.
+A time-like ordering is admitted for modeling purposes.
 
-* States are treated as ordered relative to one another.
+* States may be ordered relative to one another.
 * Update, evolution, and history are admissible descriptions.
 * No commitment is made to time as a fundamental dimension or universal parameter.
+* No global direction of time is privileged.
 * Multiple, incompatible orderings may coexist at different layers.
 
-Temporal language is treated as a bookkeeping device for rule application and state comparison.
+Temporal language functions as a bookkeeping device for comparing structured states.
 
 ---
 
 ## 5. Causality as Structural Dependence
 
-Causation is treated as **structured dependence within the modeled ruleset**.
+Causation is treated as structured dependence within admissible relational constraints.
 
-* Causes constrain possible effects.
-* Effects do not precede their enabling constraints.
-* Causality is not assumed to be universal, linear, or transitive across all layers.
+* States may mutually constrain one another provided the constraint is defined on a joint admissible structure containing them.
+* What is labeled “past,” “present,” or “future” within an ordering may participate symmetrically in constraint relations.
+* No state may be constrained by relations not supported by shared structural context.
 
-Causal structure is always relative to the abstraction layer in which it appears.
+Causality is always relative to the abstraction layer in which it appears and is not intrinsically directional.
 
 ---
 
-## 6. Emergence Through Stabilization
+## 6. Emergence Through Constraint Satisfaction
 
-Stable structures arise through **selective persistence** under the modeled rules.
+Stable structures arise through constraint satisfaction within the modeled rules.
 
-* Patterns that reinforce their own constraints persist.
-* Patterns that fail to do so dissolve or transform.
-* Stability is probabilistic and branch-relative.
+* Configurations that admit persistent or self-consistent satisfaction of constraints remain stable.
+* Stability may arise through local survivorship, global consistency, or fixed-point structure.
+* Stability is branch-relative and contingent.
 * No structure is guaranteed persistence.
 
-Emergence is treated as crystallization into self-reinforcing configurations, not as realization of preexisting forms.
+Emergence is treated as crystallization into admissible configurations.
 
 ---
 
 ## 7. Approximation and Boundary Fuzziness
 
-All modeled descriptions are **approximate**.
+All modeled descriptions are approximate.
 
 * No boundary is perfectly sharp.
 * No rule is applied with infinite precision.
 * Noise, inefficiency, and leakage are intrinsic.
 * Exact simulation is impossible even in principle.
 
-Consistency is local and practical, not absolute.
+Consistency is local and functional rather than absolute.
 
 ---
 
 ## 8. Inaccessible Deeper Structure
 
-Structure may exist **deeper than the adopted modeling layer**.
+Structure may exist deeper than the adopted modeling layer.
 
-* Such structure may bias which rules crystallize or which regimes are stable.
+* Such structure may bias which rules crystallize or which configurations are stable.
 * These biases are treated as brute facts at the modeling layer.
 * No mechanism, ontology, or dynamics of the deeper structure are specified.
 * No upward accessibility is assumed.
@@ -110,15 +110,15 @@ Deeper structure is acknowledged only insofar as it leaves persistent asymmetrie
 
 ---
 
-## 9. Non-Uniqueness of Formalism
+## 9. Non-Unique Formalism
 
 No representational scheme is treated as privileged.
 
 * Cellular automata, hypergraphs, constraint networks, or other formalisms may be used interchangeably.
-* Formal descriptions are judged by explanatory power, not ontological fidelity.
+* Formal descriptions are judged by explanatory power rather than ontological fidelity.
 * Equivalent behavior under different formalisms is expected.
 
-The model is structural, not literal.
+The model is structural rather than literal.
 
 ---
 
@@ -126,12 +126,6 @@ The model is structural, not literal.
 
 All later concepts must respect these assumptions.
 
-* No later layer may introduce new primitives that violate discreteness, locality, or approximation without explicit reclassification.
+* No later layer may introduce new primitives that violate discreteness, structural locality, approximation, or non-directional causality without explicit reclassification.
 * No downstream explanation may appeal to hidden fundamentality.
-* Phenomenology, narrative, and operational regimes may not back-propagate constraints into this layer.
-
-Explanatory authority flows downward only.
-
----
-
-These modeling assumptions establish the **explanatory floor** of the setting: the point at which structured description begins, and below which inquiry is intentionally suspended.
+* Phenomenological or narrative descriptions do not back-propagate constraints into this layer.
