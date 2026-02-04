@@ -1,7 +1,5 @@
 # Forms and Aspects of Magic
 
-## Overview List
-
 ### Forms (Topology of Identity Manipulation)
 - Innervation
 - Channeling
@@ -13,8 +11,8 @@
 - Translation
 - Binding
 - Disruption
-- Masking
 - Amplification
+- Masking
 
 ---
 

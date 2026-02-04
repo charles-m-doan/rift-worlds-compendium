@@ -1,5 +1,25 @@
 # Resonance Taxonomy
 
+### Resonances (Tendencies Toward Causal Evolution)
+
+**Primordial**
+- Lachis — null / absence of stabilized pattern
+- Aidis — preservation
+- Eris — alteration
+- Clothis — life
+- Atris — death
+
+**Natural (Pancosmic)**
+- Chronos — time
+- Topos — space
+- Quantos — quantity
+
+**Natural (Idiocosmic)**
+- Gravitos — mass
+- Elektros — electricity
+- Thermos — temperature
+- Lumos — light
+
 Resonances are **not fundamental features of reality**. They are **emergent, coarse-grained observables**, comparable to temperature or gravity, used by human observers to reason about complex causal structures.
 
 Nothing described here constitutes ontological bedrock. Any use of terms such as *fundamental* reflects **in-setting human interpretation**, not an absolute claim about reality.
