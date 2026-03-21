@@ -9,7 +9,7 @@ However, the greater degrees of freedom associated with higher flux mean that mo
 The increased mana costs are significantly offset by the faster diffusion rate of dissonance, requiring less mana to be spend transmuting or siphoning away dissonance as it accumulates.
 
 
-"magical muscles" - need to delve more into this. "Spells" rely on hyperstructures that can be likened to organic systems like muscles, and dissonance that accumulates in these are like lactic acid.  Dissonance can be siphoned away, but the systems that perform this are themselves subject to accumulating dissonance, so at a certain point one must simply submit to time as the remedy, allowing natural diffusion to do its work.  But skilled espers can cast far more magic than ametures through more efficient dissonance management, and greater stamina/structure in their "muscles" that handle dissonance siphoning.  (espers can enter meditative states to enhance dissonance siphoning, unskilled espers have a different diminishing returns curve than skilled espers)
+"magical muscles" - need to delve more into this. "Spells" rely on hyperstructures that can be likened to organic systems like muscles, and dissonance that accumulates in these are like lactic acid. (purely metaphorically speaking) Dissonance can be siphoned away, but the systems that perform this are themselves subject to accumulating dissonance, so at a certain point one must simply submit to time as the remedy, allowing natural diffusion to do its work.  But skilled espers can cast far more magic than ametuers through more efficient dissonance management, and greater stamina/structure in their "muscles" that handle dissonance siphoning.  (espers can enter meditative states to enhance dissonance siphoning, unskilled espers have a different diminishing returns curve than skilled espers)
 
 
 --- High Flux ---
@@ -26,7 +26,7 @@ Easier access to ether i.e. regions of the Noesis Background Flux saturated with
 
 Mana vs Ether (MAJOR REVISION)
 
-Mana = crystalized energy composed of ethereons
+Mana = crystalized deep layer energy composed of ethereons (but the line between mana and matter is blurry. Even photons and atoms are technically "mana" but they're projected into the Tetra sieve)
 Ether = the quantizable dimensions of the Noesis Field - it's the medium in which mana manifests
 
 Mana derives from the ether. Basically it's my new term for "magical energy."  Not really "new" as it's pretty standard in most settings.  Anyway, everything is composed of mana--including familiar matter.  "Energy" is 'more fundamental' than mana in this perspective. They aren't really different things... but mana can be thought of as emergent patterns of energy that are locked into some meta-stable state.
